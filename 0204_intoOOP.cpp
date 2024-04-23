@@ -38,3 +38,9 @@ class Matakuliah {
           }          
 };
 
+int main() {
+    Mahasiswa mhs;
+    Matakuliah mk;
+
+}
+
